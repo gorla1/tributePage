@@ -1,0 +1,23 @@
+body {
+background-color: #E2FAFA;
+}
+h1,h2,p {
+  text-align: center;
+}
+div.img {
+  text-align: center;
+  background-color: white;
+  margin: 5%;
+}
+div.list{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+.list p{
+  text-align: left;
+}
+li {
+  margin-bottom: 10px;
+}
